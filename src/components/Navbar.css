@@ -1,0 +1,23 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+justify-content: space-between;
+}
+
+.logo {
+font-weight: 900;
+}
+
+.links{
+color: aliceblue;
+display: flex;
+
+}
+
+.link{
+    margin-left: 2rem;
+    
+} */

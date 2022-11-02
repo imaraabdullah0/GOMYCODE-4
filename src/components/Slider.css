@@ -1,0 +1,12 @@
+.big{
+    background-color: rgba(127, 165, 232, 0.635);
+}
+
+img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 0px;
+    opacity: 70%;
+}
+
