@@ -29,7 +29,7 @@ function Slider() {
         />
 
         <Carousel.Caption>
-          <h3><strong>back-end web develpment</strong></h3>
+          <h3><strong>back-end web develpment </strong></h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </Carousel.Caption>
       </Carousel.Item>
